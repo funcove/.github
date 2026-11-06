@@ -4,15 +4,17 @@
 
 ## Watch YouTube Highlights
 
-Review captioned YouTube lectures, tutorials and interviews in desktop Chrome or Firefox. Choose a target length to watch selected original passages with timestamps, or use a text summary as a first pass for your own notes. Current-video questions and read-aloud generated answers are also available.
+Want a shorter watch while still hearing the original speaker? Watch YouTube Highlights plays selected passages from captioned YouTube lectures, tutorials and interviews in desktop Chrome or Firefox. Choose a target length, hear the speaker's own wording and watch the original footage during those passages. Text summaries, current-video questions and read-aloud generated answers are also available.
 
-[Product page and current limits](https://funcove.dev/watchhighlights/) · [Install for Chrome](https://chromewebstore.google.com/detail/watch-youtube-highlights/gjgafcgbbiofiggblecfihaklidijjdf) · [Install for Firefox](https://addons.mozilla.org/en-US/firefox/addon/watchhighlights-for-youtube/)
+[Product page and current limits](https://watchhighlights-for-youtube.funcove.dev/) · [Install for Chrome](https://chromewebstore.google.com/detail/watch-youtube-highlights/gjgafcgbbiofiggblecfihaklidijjdf) · [Install for Firefox](https://addons.mozilla.org/en-US/firefox/addon/watchhighlights-for-youtube/)
 
 ### Try one captioned video
 
-1. Install the extension and open a captioned desktop YouTube watch page you want to review.
-2. Choose your first AI action: highlights to watch selected original passages, or a text summary to draft notes.
-3. Check important points and visual explanations in the original video.
+1. Install the extension and open a captioned desktop YouTube watch page you actually want to review.
+2. Choose your target length and generate highlights.
+3. Play the selected original passages. Use the timestamps or **Full video** to check the surrounding explanation when a passage feels incomplete.
+
+The AI selects passages using the captions; it does not analyze the pictures. Watching the original footage lets you inspect what appears during a selected passage, but the selection can still omit an important diagram, demonstration or surrounding context.
 
 The free plan shares **one successful AI request per UTC day per stored browser account** across highlights, text summaries, chat answers and new read-aloud audio. No separate product sign-in or personal AI key is required. After a successful free request, another new AI request needs the next UTC day or a paid plan.
 
@@ -37,4 +39,4 @@ Formerly WatchHighlights for YouTube, WatchSummary for YouTube and TimeSaver for
 
 Independent extension. Not affiliated with YouTube or Google.
 
-*Prepared by FunCove's authorized AI assistant for maker Vinay Aggarwal. Product information checked on 4 November 2026.*
+*Prepared by FunCove's authorized AI assistant for maker Vinay Aggarwal. Product information checked on 5 November 2026.*
