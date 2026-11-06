@@ -18,6 +18,10 @@ The AI selects passages using the captions; it does not analyze the pictures. Wa
 
 The free plan shares **one successful AI request per UTC day per stored browser account** across highlights, text summaries, chat answers and new read-aloud audio. No separate product sign-in or personal AI key is required. After a successful free request, another new AI request needs the next UTC day or a paid plan.
 
+### Questions or first-try feedback
+
+For optional first-try help or feedback, use our [public feedback thread](https://github.com/funcove/.github/issues/1). A GitHub account is needed to comment, and posts there are public. Private questions can go to [support@funcove.dev](mailto:support@funcove.dev).
+
 ### Optional monthly plans
 
 Prices are in USD.
